@@ -15,7 +15,7 @@ Welcome to **Darkira**! This is an Android voice assistant application that embo
 ## Technologies Used
 
 - **Android Studio:** IDE for building the application.
-- **Java/Kotlin:** Primary programming languages for development.
+- **Java:** Primary programming languages for development.
 - **Voice Recognition APIs:** Utilized for processing voice commands.
 
 ## Installation
