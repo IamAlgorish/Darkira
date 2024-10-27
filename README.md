@@ -20,9 +20,5 @@ Welcome to **Darkira**! This is an Android voice assistant application that embo
 
 ## Installation
 
-To get started with Darkira, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/IamAlgorish/Darkira.git
+Download the app in release section :)
 
